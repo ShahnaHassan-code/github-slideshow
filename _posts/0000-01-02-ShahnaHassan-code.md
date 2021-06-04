@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey! I added this slide using Introduction to GitHub on Learning Lab!
+"Seek to be worth knowing rather than well known!"
 Use the left arrow to go back!
